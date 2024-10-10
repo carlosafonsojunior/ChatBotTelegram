@@ -2,6 +2,11 @@
 
 Instale a biblioteca python-telegram-bot: Execute o comando abaixo para instalar a biblioteca necessária: pip install python-telegram-bot==13.7
 
+Crie um bot no Telegram:
+
+Abra o Telegram e pesquise por "BotFather".
+Use o comando /newbot e siga as instruções para criar seu bot.
+Ao final, você receberá um Token de acesso.
 
 Menu Inicial:
 
